@@ -1,0 +1,70 @@
+h2 {
+  color: #CA949D;
+  font-family: Montserrat;
+  font-size: 60px; }
+
+body {
+  background-color: #CAC4C4; }
+
+.parrafo__uno {
+  color: #CA949D; }
+
+.parrafo__dos {
+  color: white; }
+
+.parrafo__dos__parte--a {
+  text-transform: uppercase;
+  color: white; }
+
+.parrafo__tres {
+  color: #B80000; }
+
+.titulo {
+  font-family: Montserrat;
+  color: #CA949D; }
+
+.volver {
+  font-family: montserrat;
+  color: black; }
+
+.flor {
+  width: 270px;
+  height: 320px;
+  padding-left: 15px;
+  padding-right: 15px; }
+
+.avion {
+  width: 270px;
+  height: 320px;
+  padding-left: 15px;
+  padding-right: 15px; }
+
+.calesita {
+  width: 270px;
+  height: 320px;
+  padding-left: 15px;
+  padding-right: 15px; }
+
+.flor2 {
+  width: 270px;
+  height: 320px;
+  padding-left: 15px;
+  padding-right: 15px; }
+
+.volver {
+  font-family: montserrat;
+  font-size: 20px;
+  margin-top: 15px;
+  color: #CA949D; }
+
+.cuadrado {
+  width: 330px;
+  height: 290px;
+  padding-left: 15px;
+  padding-right: 15px; }
+
+.publimoda {
+  width: 310px;
+  heigth: 470px;
+  padding-left: 5px;
+  padding-right: 5px; }
